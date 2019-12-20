@@ -1,2 +1,2 @@
 # biometric_11Khands
-Biometrix identification on 11K hands data set using opencv
+Biometric identification on 11K hands data set(https://sites.google.com/view/11khands) using opencv
