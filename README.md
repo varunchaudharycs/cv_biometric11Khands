@@ -3,7 +3,7 @@ Biometrix identification on 11K hands data set using opencv
 
 CSE 515 - Multimedia and Web Databases<br />
 
-![Sample data](https://imgur.com/bNTC0IY)<br />
+!.[Sample data](https://imgur.com/bNTC0IY)<br />
 Project folder structure-<br />
     - ./Code(contains Python source code for the tasks)<br />
         - ./image_features<br />
