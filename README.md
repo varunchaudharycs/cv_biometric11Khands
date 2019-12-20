@@ -1,8 +1,9 @@
 # biometric_11Khands
 Biometrix identification on 11K hands data set using opencv
 
-CSE 515 - Multimedia and Web Databases
+CSE 515 - Multimedia and Web Databases<br />
 
+![Sample data](https://imgur.com/bNTC0IY)<br />
 Project folder structure-<br />
     - ./Code(contains Python source code for the tasks)<br />
         - ./image_features<br />
@@ -15,12 +16,12 @@ Project folder structure-<br />
             - cli_options.py (common util functions to handle user inputs in the command line interface)<br />
             - distance_measures.py - (code to calculate euclidean and chi-square distance)<br />
             - similarity_measures.py - (code to calculate dot product and cosine similarity)<br />
-        - task1.py (Implementation for the task 1) ['dorsal' vs 'palmar' using latent semantics]<br />
-        - task2.py (Implementation for the task 2) ['dorsal' vs 'palmar' using K-Means clustering]<br />
-        - task3.py (Implementation for the task 3) ['dorsal' vs 'palmar' using Personalized Page Rank]<br />
-        - task4.py (Implementation for the task 4) ['dorsal' vs 'palmar' using classification]<br />
-        - task5.py (Implementation for the task 5) ['dorsal' vs 'palmar' using LSH]<br />
-        - task6.py (Implementation for the task 6) ['dorsal' vs 'palmar' using user feedback indexing]<br />
+        - task1.py (Implementation for the task 1) ['dorsal' vs 'palmar' using **latent semantics**]<br />
+        - task2.py (Implementation for the task 2) ['dorsal' vs 'palmar' using **K-Means clustering**]<br />
+        - task3.py (Implementation for the task 3) ['dorsal' vs 'palmar' using **Personalized Page Rank**]<br />
+        - task4.py (Implementation for the task 4) ['dorsal' vs 'palmar' using **classification**]<br />
+        - task5.py (Implementation for the task 5) ['dorsal' vs 'palmar' using **LSH**]<br />
+        - task6.py (Implementation for the task 6) ['dorsal' vs 'palmar' using **user feedback indexing**]<br />
     - ./Inputs(folder with test image set)<br />
         - All the test images are stored in this folder and used while constructing the feature matrix.<br />
     - ./Data - stores index structure or extracted features for the data set, so that it can be reused in other tasks.<br />
